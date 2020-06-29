@@ -1,0 +1,14 @@
+7653e06537878ef35d6bb40dc4c4ca0b *DESCRIPTION
+04eda5d5896cfcf9845d5e190af140eb *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+3b4637fef009812663fca6e0f93833ed *R/bubbly.R
+6472f4615c2ea72ac3c33ff53dab81e1 *README.md
+1e7b59529adc1202b5ed13b2f19ee4ef *build/vignette.rds
+a0daec0048e3fdb2e940852ff3a18d47 *inst/doc/Introduction.R
+b5b1a27a07443c5b50b5319689c929aa *inst/doc/Introduction.Rmd
+323dc8cf13a306fa6ed4ae3c8840c104 *inst/doc/Introduction.html
+988496c8237a5d6b518fb2026f8057c0 *man/bubbly.Rd
+6d79599b82efa4ce50fcf6ba1a8780f3 *man/figures/bigmom.gif
+6c33dc6dc288457c947b5268a343e833 *man/figures/classy.gif
+78c97a8feaf27bf3e1263960f16d036c *man/figures/rstudio.gif
+b5b1a27a07443c5b50b5319689c929aa *vignettes/Introduction.Rmd
