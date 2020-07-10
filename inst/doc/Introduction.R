@@ -1,5 +1,10 @@
 ## ---- eval=FALSE--------------------------------------------------------------
 #  
+#  install.packages("bubblyr")
+#  
+
+## ---- eval=FALSE--------------------------------------------------------------
+#  
 #  install.packages("remotes") #if not installed
 #  
 #  remotes::install_github("feddelegrand7/bubblyr")
@@ -24,7 +29,11 @@ list <- c(
     "life",
     "darksky",
     "orangina",
-    "meteor"
+    "meteor", 
+    "gravitas",
+    "rladies",
+    "sunshine",
+    "sweet"
   )
 
 knitr::kable(list, col.names = "Themes")

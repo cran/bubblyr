@@ -1,6 +1,6 @@
 Package: bubblyr
 Title: Beautiful Bubbles for 'shiny' and 'rmarkdown' Backgrounds
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(person(given = "Mohamed El Fodil",
            family = "Ihaddaden",
@@ -22,9 +22,9 @@ VignetteBuilder: knitr
 URL: https://github.com/feddelegrand7/bubblyr
 BugReports: https://github.com/feddelegrand7/bubblyr/issues
 NeedsCompilation: no
-Packaged: 2020-06-26 01:10:27 UTC; THINKPAD L390
+Packaged: 2020-07-10 17:41:02 UTC; THINKPAD L390
 Author: Mohamed El Fodil Ihaddaden [aut, cre],
   David Åse [cph] (bubbly-bg library)
 Maintainer: Mohamed El Fodil Ihaddaden <ihaddaden.fodeil@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-06-29 09:20:10 UTC
+Date/Publication: 2020-07-10 17:50:02 UTC
