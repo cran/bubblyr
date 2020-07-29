@@ -33,7 +33,8 @@ list <- c(
     "gravitas",
     "rladies",
     "sunshine",
-    "sweet"
+    "sweet", 
+    "lalaland"
   )
 
 knitr::kable(list, col.names = "Themes")
